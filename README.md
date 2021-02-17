@@ -12,3 +12,15 @@
     <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
 </p>
 	
+## Stats
+
+<a href="https://github.com/ZakiGans"><img src="https://github-readme-stats.vercel.app/api?username=ZakiGans&show_icons=true&theme=radical"></a>
+<a href="https://github.com/ZakiGans"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiGans&theme=highcontrast&layout=compact"></a>
+
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakiGans">
+</p>
+
+## Trophies
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=ZakiGans&row=2&column=3"/>
