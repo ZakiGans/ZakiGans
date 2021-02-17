@@ -1,7 +1,7 @@
 	
 ### Kamex~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-https://github.com/ZakiGans/ZakiGans/blob/main/img/IMG_20210214_124729.png
+
 </p>
 <br>
 
