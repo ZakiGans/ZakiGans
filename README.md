@@ -4,7 +4,7 @@
 
 </p>
 <br>
-<img src="https://github.com/ZakiGans/ZakiGans/blob/main/img/Zaki.jpg" width=120 height="120" align="left">
+<img src="https://github.com/ZakiGans/ZakiGans/blob/main/img/Ramlan.jpg" width=120 height="120" align="left">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 
 
