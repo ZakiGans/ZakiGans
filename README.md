@@ -1,7 +1,7 @@
 	
 ### Kamex~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
 <p align="center">
-
+* [`Saweria`](https://saweria.co/ZakiAhsan)
 </p>
 <br>
 
